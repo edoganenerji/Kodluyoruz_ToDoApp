@@ -1,0 +1,46 @@
+import { StyleSheet, Dimensions } from "react-native";
+
+export default StyleSheet.create({
+    container:{
+        flex:1,
+        backgroundColor:"white",
+    },
+    cardContainer:{
+        flex:1,
+        backgroundColor:"#eceff1",
+        margin:5,
+        paddingTop:10,
+        borderRadius:10
+    },
+    imageContainer:{
+        alignItems:"center",
+        flex:1
+    },
+    image:{
+        height:Dimensions.get('window').height/3,
+        width:Dimensions.get('window').width/2.4,
+        borderRadius:10
+    },
+    innerContainer:{
+        flex:1,
+        alignItems:"flex-start",
+        paddingLeft:12,
+        paddingRight:12,
+        marginTop:5
+    },
+    productName:{
+        fontWeight:"bold",
+        fontSize:15,
+        alignItems:"flex-start"
+    },
+    productPrice:{
+        fontSize:14,
+        marginTop:5
+    },
+    inStock:{
+        color:"red",
+        fontWeight:"bold",
+        marginTop:3,
+        marginBottom:3
+    }
+})

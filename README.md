@@ -5,8 +5,8 @@ This code presents an app in order to create and manage to-do list in the scope 
 **First**
 ![start](https://github.com/edoganenerji/Kodluyoruz_ToDoApp/blob/main/images/Screenshot_1659437409.png)
 **Second**
-![start](https://github.com/edoganenerji/Kodluyoruz_ToDoApp/blob/main/images/Screenshot_1659437409.png)
+![start](https://github.com/edoganenerji/Kodluyoruz_ToDoApp/blob/main/images/Screenshot_1659437468.png)
 **Third**
-![start](https://github.com/edoganenerji/Kodluyoruz_ToDoApp/blob/main/images/Screenshot_1659437409.png)
+![start](https://github.com/edoganenerji/Kodluyoruz_ToDoApp/blob/main/images/Screenshot_1659437475.png)
 **Last**
-![start](https://github.com/edoganenerji/Kodluyoruz_ToDoApp/blob/main/images/Screenshot_1659437409.png)
+![start](https://github.com/edoganenerji/Kodluyoruz_ToDoApp/blob/main/images/Screenshot_1659437488.png)
